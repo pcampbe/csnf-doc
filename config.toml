@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "CSNF"
 
 enableRobotsTXT = true
 
@@ -53,8 +53,8 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "CSNF"
+description = "A CSNF example site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
@@ -172,12 +172,12 @@ enable = false
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
 	name = "User mailing list"
-	url = "https://example.org/mail"
+	url = "https://onug.net/csnf"
 	icon = "fa fa-envelope"
         desc = "Discussion and help from your fellow users"
 [[params.links.user]]
 	name ="Twitter"
-	url = "https://example.org/twitter"
+	url = "https://twitter.com/onug_"
 	icon = "fab fa-twitter"
         desc = "Follow us on Twitter to get the latest news!"
 [[params.links.user]]
@@ -188,17 +188,17 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
 	name = "GitHub"
-	url = "https://github.com/google/docsy"
+	url = "https://github.com/onug/CSNF"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
 [[params.links.developer]]
 	name = "Slack"
-	url = "https://example.org/slack"
+	url = "https://onug.slack.com"
 	icon = "fab fa-slack"
         desc = "Chat with other project developers"
 [[params.links.developer]]
 	name = "Developer mailing list"
-	url = "https://example.org/mail"
+	url = "https://onug.net/csnf"
 	icon = "fa fa-envelope"
         desc = "Discuss development issues around the project"
 
